@@ -1,7 +1,7 @@
 # Intro to Data Science, Spring 2019
 Course repository for Intro to Data Science, Spring 2019 @ CCNY. All lab materials will be posted in this repo, for a class materials see the [coursepage here](https://grantmlong.com/teaching/spring2019/index.html).
-* Click [here]() to launch this repository in Colaboratory.
-* Click [here]() to launch this repository in Binder.
+* Click [here](https://colab.research.google.com/github/grantmlong/itds2019/blob/master/) to launch this repository in Colaboratory.
+* Click [here](https://mybinder.org/v2/gh/grantmlong/itds2019/master) to launch this repository in Binder.
 
 ##### Additional Resources.
 * See [here](https://grantmlong.com/teaching/spring2019/ITDS-Syllabus-Spring-2019.pdf) for the course syllabus.
